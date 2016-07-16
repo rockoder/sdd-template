@@ -68,6 +68,7 @@ High level architectural changes. Highlight what changes will be introduced as c
 	A high-level diagram showing the various web servers, application servers, standalone applications, databases, file systems, etc that make up your software system, along with the relationships/interactions between them.
 
 - Block/Component diagram
+
 	One per container, showing major components and their relationships.
 
 ## 9. Implementation Design
@@ -77,12 +78,15 @@ High level architectural changes. Highlight what changes will be introduced as c
 	Relatively detailed design of the code/solution. Explain new classes introduced, classes which underwent major changes, design patterns used etc. Following diagrams, as appropriate, can be used:
 
 	- Class Diagram
+
 		Explaining implementation of particular component. Also can be used to explain design patterns and future extensibility.
 
 	- Collaboration Diagram
+
 		Showing high level communication between objects.
 
 	- Sequence Diagram
+
 		Showing complex interactions between objects over time.
 
 - Data Model Design
@@ -90,19 +94,24 @@ High level architectural changes. Highlight what changes will be introduced as c
 	Relatively detailed design of the new tables/columns. Explain purpose of each table/column, when/who/how of CRUD operations, normalization considerations etc. Also mention affected files (sql, xml, scripts). Following diagrams, as appropriate, can be used:
 
 	- Entity Relationship Diagram
+
 		Showing relationship between the new tables/columns introduced.
 
 	- CRUD Table
+
 		Chart showing CRUD operations performed by various processes on entities.
 
 ## 10. Development Considerations
 - Deployment
+
 	Describe hardware, system requirements and other deployment configurations like ports opened, firewalls etc.
 
 - Upgrade
+
 	Describe upgrade steps and files affected. Consider existing configuration files and data during upgrade. Also consider backup and rollback action plan.
 
 - Migration
+
 	Describe database migration plan. Explain tables affected, steps for migrations and scripts/tools involved. Also consider backup and rollback action plan.
 
 - Import/Export
