@@ -2,18 +2,18 @@ Many organizations, new and old, struggle to come up with a descent Software Des
 
 ### Contents
 
-* [1. Introduction](#introduction)
-* [2. Related Documents](#related-documents)
-* [3. Definitions](#definitions)
-* [4. Limitations of Current Product Functionality and Architecture](#limitations)
-* [5. Solution Highlight](#solution-highlight)
-* [6. Acceptance Criteria](#acceptance-criteria)
-* [7. Functional Design](#functional-design)
-* [8. Architecture](#architecture)
-* [9. Implementation Design](#implementation-design)
-* [10. Development Considerations](#development-considerations)
-* [11. External Dependencies, Blockers and Risks](#external-dependencies)
-* [12. Approvals](#approvals)
+* [1. Introduction](#1-introduction)
+* [2. Related Documents](#2-related-documents)
+* [3. Definitions](#3-definitions)
+* [4. Limitations of Current Product Functionality and Architecture](#4-limitations-of-current-product-functionality-and-architecture)
+* [5. Solution Highlight](#5-solution-highlight)
+* [6. Acceptance Criteria](#6-acceptance-criteria)
+* [7. Functional Design](#7-functional-design)
+* [8. Architecture](#8-architecture)
+* [9. Implementation Design](#9-implementation-design)
+* [10. Development Considerations](#10-development-considerations)
+* [11. External Dependencies, Blockers and Risks](#11-external-dependencies-blockers-and-risks)
+* [12. Approvals](#12-approvals)
 
 ## 1. Introduction
 Provide context for this architectural change or new feature.
