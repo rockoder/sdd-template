@@ -2,7 +2,7 @@ Many organizations, new and old, struggle to come up with a descent Software Des
 
 ### Contents
 
-* [1. Introduction](#1.-introduction)
+* [1. Introduction](#1-introduction)
 * [2. Related Documents](#related-documents)
 * [3. Definitions](#definitions)
 * [4. Limitations of Current Product Functionality and Architecture](#limitations)
